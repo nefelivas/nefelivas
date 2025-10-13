@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Nefeli]!
+# 👋 Hi there, I'm Nefeli!
 
 🎓 I'm a final-year **Computer Science student** at the **University of Macedonia (UoM)**.  
 💻 Passionate about software development, especially in **Java** and **Web Technologies**.
