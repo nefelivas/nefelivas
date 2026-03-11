@@ -1,7 +1,7 @@
 #  Hi there, I'm Nefeli!
 
  I'm a final-year **Computer Science student** at the **University of Macedonia (UoM)**.  
- Passionate about software development, especially in **Java** and **Web Technologies**.
+ Passionate about software development.
 
 ---
 
@@ -21,7 +21,7 @@
 ---
 
 ###  Interests & Goals
--  Software Development (mainly with **Java**)  
+-  Software Development  
 -  Web Development & Backend Systems  
 -  Machine Learning and AI fundamentals  
 -  Building clean, scalable, and maintainable code  
