@@ -1,6 +1,5 @@
 #  Hi there, I'm Nefeli!
 
- I'm a final-year **Computer Science student** at the **University of Macedonia (UoM)**.  
  Passionate about software development.
 
 ---
