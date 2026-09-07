@@ -5,7 +5,7 @@
 ---
 
 ###  About Me
- Final-year student majoring in Computer Science  
+ I'm a graduate of Applied informatics.
  Gained solid experience through university projects in:
   - **Java**
   - **HTML & CSS**
